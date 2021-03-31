@@ -1,4 +1,4 @@
-Live Webiste here https://github.com/ravisavani366/ToDo-List/settings
+Live Webiste here https://github.com/ravisavani366/ToDo-List/
 
 # Getting Started with Create React App
 
